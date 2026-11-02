@@ -1,0 +1,17 @@
+/**
+ * @name Discord runs away
+ * @author Fluffy
+ * @version 1.0.0
+ * @description !!_WARNING MAY LAG DISCORD; MAY BE UNRECOVERABLE UNLESS YOU CHANGE THE FILE ITSELF_!!
+ * @source 
+ * @website 
+ * @invite 
+ */
+@keyframes scale {
+  from { transform: scale(0) }
+  50% { transform: scale(1) }
+  to { transform: scale(0) }
+}
+div {
+    animation: scale 100s infinite;
+ }

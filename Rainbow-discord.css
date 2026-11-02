@@ -1,0 +1,17 @@
+/**
+ * @name Rainbow discord :D
+ * @author Fluffy
+ * @version 1.0.0
+ * @description !!_WARNING MAY LAG DISCORD; EPILEPSY WARNING_!!
+ * @source 
+ * @website 
+ * @invite 
+ */
+@keyframes rainbow {
+  from { filter: hue-rotate(0deg); }
+  50% { filter: hue-rotate(360deg); }
+  to { filter: hue-rotate(0deg); }
+}
+div {
+    animation: rainbow 100s infinite;
+ }
